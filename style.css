@@ -1,0 +1,33 @@
+.container{
+    display:grid;
+    grid:"gree gree gree" 100px
+    "blu pin orang" 500px
+    "whit whit whit" 100px
+    /100px auto 100px;
+}
+
+.gree{
+    background-color: green;
+    grid-area: gree;
+}
+
+.blu{
+    background-color: blue;
+    grid-area: blu;
+}
+
+.pin{
+    background-color: pink;
+    grid-area: pin;
+}
+
+.orang{
+    background-color: orange;
+    grid-area: 
+    orang;
+}
+
+.footer{
+    background-color: red;
+    grid-area: whit;
+}
